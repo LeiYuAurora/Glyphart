@@ -8,5 +8,5 @@ body {
 }
 @font-face {
   font-family: typewriter;
-  src: url("/MonospaceTypewriter.ttf")
+  src: url("./MonospaceTypewriter.ttf")
 }
